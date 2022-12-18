@@ -17,7 +17,6 @@ import web3 from "../public/CSS-Social_Media.png";
 import web4 from "../public/CSS-Travel.png";
 import web5 from "../public/JS-2D_Shooter.png";
 import web6 from "../public/JS-Pacman.png";
-import web7 from "../public/React-Crypto_Tracker.png";
 
 export default function Home() {
   const [darkMode, setDarkMode] = useState(false);
