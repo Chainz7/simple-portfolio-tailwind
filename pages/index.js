@@ -243,13 +243,12 @@ export default function Home() {
           <h3 className="text-3xl py-1 dark:text-white ">REACT</h3>
           <div className="flex flex-col gap-10 py-10 lg:flex-row lg:flex-wrap">
             <div className="basis-1/3 flex-1 ">
-              <Image
-                className="rounded-lg object-cover"
+              <img className="rounded-lg object-cover"
                 width={"100%"}
                 height={"100%"}
                 layout="responsive"
-                src={web7}
-              />
+                src="../public/React-Crypto_Tracker.png" />
+
             </div>
           </div>
         </section>
